@@ -3,7 +3,7 @@ package com.empresa;
 public class SwitchCase {
 
 	public static void main(String[] args) {
-		string modulo="Contabilidad";
+		String modulo="Contabilidad";
 		
 		switch(modulo)
 		{
