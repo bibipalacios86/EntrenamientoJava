@@ -9,7 +9,7 @@ public class ClaseeIngenieria implements Estudiante {
 	}
 
 	public void obtenerNumeroDeEstudiantes() {
-	System.out.println("Somos 50 esuidiantes");
+	System.out.println("Somos 50 estudiantes");
 
 
 	}
@@ -21,7 +21,7 @@ public class ClaseeIngenieria implements Estudiante {
 	}
 	
 	public void obtenerUniversidad() {
-		System.out.println("La universidad es: "+ Estudiante.universidad);
+		System.out.println("La universidad es: "+ universidad);
 
 		}
 	public static void main(String[] args) {
@@ -41,4 +41,10 @@ public class ClaseeIngenieria implements Estudiante {
 		med.obtenerUniversidad();
 	}
 
+	public void obtenerNombreInterface() {
+		
+		
+	}
+	
 }
+	

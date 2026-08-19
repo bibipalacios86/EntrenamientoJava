@@ -21,5 +21,10 @@ public class ClaseDeMedicina implements Estudiante {
 	public void obtenerUniversidad() {
 		System.out.println("La universidad es: Universidad de Caldas");
 	}
+
+	public void obtenerNombreInterface() {
+	
+		
+	}
 	
 }

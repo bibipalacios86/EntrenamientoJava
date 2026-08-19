@@ -1,8 +1,8 @@
 package ProgramacionOrientadaObjetos;
 
-public interface Estudiante {
+public interface Estudiante extends PadreDeEstudiante {
 
-	public static final String universidad="Universidad de Mnizales";
+	public static final String universidad="Universidad de Manizales";
 	
 	public void mostrarNombre();
 	

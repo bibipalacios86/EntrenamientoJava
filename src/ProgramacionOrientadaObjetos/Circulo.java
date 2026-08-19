@@ -6,5 +6,10 @@ public class Circulo extends Formas {
 	{
 		
 	}
+
+		public void mostrarforma() {
+
+		
+	}
 	
 }
